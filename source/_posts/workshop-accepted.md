@@ -4,7 +4,7 @@ title: AI4SOC Workshop has been accepted!
 
 # Exciting News: AI4SOC Workshop Accepted for ICSOC 2024!
 
-[We](/Workshop-Chairs) are thrilled to announce that the **AI4SOC Workshop** has been officially accepted and will be held in conjunction with the [**22th International Conference on Service-Oriented Computing (ICSOC) 2024**](https://icsoc2024.redcad.tn/). This prestigious conference will take place in Garmath, Tunisia, from the 3rd to the 6th of December, 2024, and the workshop will take place 28th of November, 2024 in the same place.
+[We](/Workshop-Chairs) are thrilled to announce that the **AI4SOC Workshop** has been officially accepted and will be held in conjunction with the [**22th International Conference on Service-Oriented Computing (ICSOC) 2024**](https://icsoc2024.redcad.tn/). This prestigious conference will take place in Gammarth, Tunisia, from the 3rd to the 6th of December, 2024, and the workshop will take place 28th of November, 2024 in the same place.
 
 ## About the AI4SOC Workshop
 
