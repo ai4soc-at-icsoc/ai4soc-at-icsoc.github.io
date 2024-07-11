@@ -4,6 +4,10 @@
 # Navigation menu
 menu:
   Home: /
+  Call for Papers: /call-for-papers
+  Important Dates: /important-dates
+  Program comitee: /program-comitee
+  Chairs: /workshop-chairs
   Archives: /archives
 # RSS link
 rss: /atom.xml
