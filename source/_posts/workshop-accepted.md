@@ -33,7 +33,7 @@ We invite submissions of original research papers, case studies, and position pa
 - Autonomous Service Systems
 - AI-based Service Security and Privacy
 
-The detailded call for papers is available [here](/Call-for-Papers)
+The [detailed call for papers is available here](/Call-for-Papers)
 
 For detailed submission guidelines and paper templates, please visit the [ICSOC 2024 website](https://icsoc2024.redcad.tn).
 
@@ -41,7 +41,7 @@ For detailed submission guidelines and paper templates, please visit the [ICSOC 
 
 Don't miss this opportunity to be part of a dynamic and innovative workshop at ICSOC 2024. We look forward to your contributions and participation in making the AI4SOC Workshop a resounding success.
 
-See you in Garmath, Tunisia at ICSOC 2024!
+See you in Gammarth, Tunisia at ICSOC 2024!
 
 ---
 
