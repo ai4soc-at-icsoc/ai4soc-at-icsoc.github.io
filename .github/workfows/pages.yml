@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main # default branch
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          submodules: recursive
+          # submodules: recursive
       - name: Use Node.js 20
         uses: actions/setup-node@v4
         with:
