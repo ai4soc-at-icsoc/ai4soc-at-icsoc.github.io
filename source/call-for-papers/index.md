@@ -15,6 +15,8 @@ Service-Oriented Computing has revolutionized the way software applications are 
 3.	Orchestration of AI Services: The orchestration of multiple AI services can create sophisticated AI workflows and composite services, enhancing the functionality and versatility of AI solutions.
 4.	Scalability and Flexibility in AI Deployment: SOC methodologies facilitate the scalable and flexible deployment of AI models and services, ensuring they can efficiently handle varying workloads and adapt to changing requirements.
 
+## AI for Service-Oriented Computing
+
 Conversely, by leveraging AI, SOC can also be further enhanced to achieve unprecedented levels of efficiency, automation, and value delivery.  Therefore, the workshop will also be open to contributions regarding applications of AI in Service-Oriented Computing as a secondary focus, including:
 
 5.	Intelligent Service Discovery and Composition: AI techniques can improve the discovery, matching, and composition of services, ensuring that the most relevant services are selected and integrated to meet specific user requirements dynamically and that service-oriented architectures are deployed optimally.
