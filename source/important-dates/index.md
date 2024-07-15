@@ -7,4 +7,4 @@ date: 2024-07-11 10:20:04
 
 # Authors Notification: 21 October 2024
 
-# Workshop date: 28 November 2024
+# Workshop date: 3 December 2024
