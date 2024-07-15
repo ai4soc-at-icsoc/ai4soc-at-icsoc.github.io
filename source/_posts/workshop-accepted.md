@@ -55,7 +55,7 @@ japarejo@us.es
 José María García
 SCORE Lab, I3US Institute, Universidad de Sevilla, 
 ETSII, Avda. de la Reina Mercedes s/n, 41012, Sevilla, Spain
-çjosemgarcia@us.es
+josemgarcia@us.es
 
 Víctor Casamayor Pujol
 Distributed systems Group, Technical University of Viena 
