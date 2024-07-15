@@ -33,7 +33,7 @@ We invite submissions of original research papers, case studies, and position pa
 - Autonomous Service Systems
 - AI-based Service Security and Privacy
 
-The [detailed call for papers is available here](/Call-for-Papers)
+The [detailed call for papers is available here](/call-for-papers)
 
 For detailed submission guidelines and paper templates, please visit the [ICSOC 2024 website](https://icsoc2024.redcad.tn).
 
