@@ -18,8 +18,9 @@ The AI4SOC Workshop aims to bring together researchers, practitioners, and enthu
 
 ## Important Dates
 
-- **Paper Submission Deadline**: 7 October 2024
-- **Notification of Acceptance**: 21 October 2024
+- **Paper Submission Deadline**: 26th September 2024
+- **Notification of Acceptance**: 24th October 2024
+- **Camera Ready and Registration**: 31st October 2024
 - **Workshop Date**: 3 December 2024
 
 ## Call for Papers
