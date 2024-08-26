@@ -2,13 +2,13 @@
 title: AI4SOC Workshop has been accepted!
 ---
 
-# Exciting News: AI4SOC Workshop Accepted for ICSOC 2024!
+# Exciting News: SOC4AI Workshop Accepted for ICSOC 2024!
 
-[We](/Workshop-Chairs) are thrilled to announce that the **AI4SOC Workshop** has been officially accepted and will be held in conjunction with the [**22th International Conference on Service-Oriented Computing (ICSOC) 2024**](https://icsoc2024.redcad.tn/). This prestigious conference will take place in Tunis, Tunisia, from the 3rd to the 6th of December, 2024, and the workshop will take place 3rd of December, 2024 in the same place.
+[We](/Workshop-Chairs) are thrilled to announce that the **SOC4AI Workshop** has been officially accepted and will be held in conjunction with the [**22th International Conference on Service-Oriented Computing (ICSOC) 2024**](https://icsoc2024.redcad.tn/). This prestigious conference will take place in Tunis, Tunisia, from the 3rd to the 6th of December, 2024, and the workshop will take place 3rd of December, 2024 in the same place.
 
-## About the AI4SOC Workshop
+## About the SOC4AI Workshop
 
-The AI4SOC Workshop aims to bring together researchers, practitioners, and enthusiasts from the fields of Artificial Intelligence and Service-Oriented Computing. The workshop will provide a platform for sharing cutting-edge research, innovative ideas, and practical experiences. Our focus will be on the intersection of AI technologies and service-oriented computing, exploring how AI can enhance the development, deployment, and management of service-based systems.
+The SOC4AI Workshop aims to bring together researchers, practitioners, and enthusiasts from the fields of Artificial Intelligence and Service-Oriented Computing. The workshop will provide a platform for sharing cutting-edge research, innovative ideas, and practical experiences. Our focus will be on the intersection of AI technologies and service-oriented computing, exploring how AI can enhance the development, deployment, and management of service-based systems.
 
 ## Workshop Highlights
 
@@ -46,7 +46,7 @@ See you in Tunis, Tunisia at ICSOC 2024!
 
 ---
 
-**AI4SOC Workshop Chairs**
+**SOC4AI Workshop Chairs**
 
 José Antonio Parejo Maestre
 SCORE Lab, I3US Institute, Universidad de Sevilla, 
