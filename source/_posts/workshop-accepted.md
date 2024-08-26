@@ -1,5 +1,5 @@
 ---
-title: AI4SOC Workshop has been accepted!
+title: SOC4AI Workshop has been accepted!
 ---
 
 # Exciting News: SOC4AI Workshop Accepted for ICSOC 2024!
