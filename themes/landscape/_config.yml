@@ -5,10 +5,10 @@
 menu:
   Home: /
   Call for Papers: /call-for-papers
+  Submissions: /submission
   Important Dates: /important-dates
   Program comitee: /program-comitee
-  Chairs: /workshop-chairs
-  Archives: /archives
+  Chairs: /workshop-chairs  
 # RSS link
 rss: /atom.xml
 # Path of title banner image of page top
