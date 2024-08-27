@@ -1,18 +1,19 @@
 ---
-title: Program comitee
+title: Program Committee
 date: 2024-07-11 10:20:18
 ---
 
-# Program comitee 
-
-To be determined, we are currently actively searching for additional members.
+*To be completed*.
 
 Currently:
 
-Enrique Moguel, University of Extremadura
-
-Javier Berrocal, University of Extremadura
-
-Inmaculada Medina Bulo, University of Cádiz
-
-Pablo Fernández Montes, University of Sevilla
+ - Andrea Morichetta, TU Wien
+ - Boris Sedlak, TU Wien
+ - Carlos Canal, University of Málaga
+ - Enrique Moguel, University of Extremadura
+ - Javier Berrocal, University of Extremadura
+ - Inmaculada Medina Bulo, University of Cádiz
+ - Lauri Loven, University of Oulu
+ - Pablo Fernández Montes, University of Sevilla
+ - Praveen Kumar Donta, Stockholm University
+ - Sebstian Werner, TU Berlin
