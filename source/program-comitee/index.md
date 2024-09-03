@@ -8,6 +8,7 @@ date: 2024-07-11 10:20:18
 Currently:
 
  - Andrea Morichetta, TU Wien
+ - Antonio Brogi, University of Pisa
  - Boris Sedlak, TU Wien
  - Carlos Canal, University of Málaga
  - Enrique Moguel, University of Extremadura
