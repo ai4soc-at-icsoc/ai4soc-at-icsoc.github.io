@@ -14,4 +14,10 @@ In order to submit your paper to the SOC4AI worshop you must:
 
 # Submission guidelines
 
-Follow the instructions provided at [ICSOC2024 submission guidelines](https://icsoc2024.redcad.tn/call-research-papers.html)
+
+Workshop papers should be **between 8 and 12 Springer's LNCS pages long**.
+Apart from such constraint, you should follow the instructions provided at [ICSOC2024 submission guidelines](https://icsoc2024.redcad.tn/call-research-papers.html)
+
+Please remember that **at least one author of each accepted paper should attend to present the paper** and **at least one author for each paper accepted to a workshop will need to register for the workshop program**.
+
+
