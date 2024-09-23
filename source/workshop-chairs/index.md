@@ -26,8 +26,12 @@ His research experience is complemented by a predoctoral stay at the University 
 José María has been a reviewer in 15 journals indexed in JCR, has participated in various program committees of international and national conferences, has been part of the organisation of two national conferences and the ICSOC 2022 international conference, PC co-chair of the Blockchain Forum in BPM 2020, Blockchain Forum coordinator in national conference JCIS – SISTEDES since 2019, and has acted as PC member and assistant reviewer in more than 30 journals, conferences, and international workshops. 
 
 # Víctor Casamayor Pujol 
-vcasamayor@dsg.tuwien.ac.at
-Distributed systems Group, Technical University of Viena 
-Karlsplatz 13, 1040, Vienna, Austria
+victor.casamayor@upf.edu
+Distributed Intelligence and Systems-Engineering Lab, Universitat Pompeu Fabra 
+Roc Borona 138, 08018, Barcelona, Spain
 
-Dr. Víctor is a postdoctoral project assistant at the Distributed Systems Group of the Institute of Information System at TU Wien since January 2021. He recently received his PhD from the UPF with the thesis “Map-less inventory and location for an RFID inventory robot” in the UbiCA Lab group under the supervision of Rafael Pous Andrés. Before, he obtained the Master in Intelligent Interactive Systems also from the UPF. Previously, he worked for 18 months at CNES in Paris as a space propulsion engineer. Before, he got a master on Space Systems Engineering at ISAE-Supaero and he graduated as an aeronautical engineer in 2011 from the UPC.
+I am currently a tenure-track assistant professor in the engineering department at Universitat Pompeu Fabra, where I focus on advancing research in cloud computing, edge infrastructures, and AI-driven systems. Before this role, I worked as a postdoctoral project assistant for the EqBlankets project from a Consolidación Investigadora grant.
+
+Prior to joining UPF, I was a postdoctoral researcher at the Technische Universität Wien (TUW), where I developed AI solutions for intelligent and adaptive cloud computing systems. I contributed to high-impact projects, including Polaris, where we worked on open solutions for Cloud and Edge infrastructures, or TEADAL, where data assets are shared between organizations through the computing continuum. My research on service level objectives (SLOs) for the computing continuum and scalable AI methodologies has been presented at international conferences such as ICSOC 2022 and published in peer-reviewed journals.
+
+I began my academic career working on space systems at CNES Toulouse, focusing on nano-satellites, before transitioning to RFID-based inventory systems during my PhD at UPF. My work on an RFID navigation algorithm, which was patented and published widely, earned a prize in technology transfer. I also had the opportunity to collaborate with companies, applying and testing my RFID solutions in real-world environments.
