@@ -4,8 +4,8 @@ date: 2024-08-26 11:30:04
 ---
 <h1 style="color: red; font-size: 36px; text-align: center;">
   Deadline Extended! <br>
-  The workshop submission deadline has been extended by one week! <br>
-  New Submision deadline is 3 Oct 2024!!</h1>
+  The workshop submission deadline has been extended! <br>
+  New Submision deadline is 7 Oct 2024!!</h1>
 # Submission procedure
 
 In order to submit your paper to the SOC4AI worshop you must:
