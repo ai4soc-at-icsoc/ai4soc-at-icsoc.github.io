@@ -5,7 +5,8 @@ date: 2024-07-11 10:19:19
 # SOC4AI - Service-Oriented Computing for AI Applications
 
 <h1 style="color: red; font-size: 36px; text-align: center;">
-Deadline Extended! The workshop submission deadline has been extended by one week! <br\>
+  Deadline Extended! <br/>
+  The workshop submission deadline has been extended by one week! <br\>
   New Submision deadline is 3 Oct 2024!!
 </h1>
 
