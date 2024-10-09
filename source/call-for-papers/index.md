@@ -7,7 +7,7 @@ date: 2024-07-11 10:19:19
 <h1 style="color: red; font-size: 36px; text-align: center;">
   Deadline Extended! <br>
   The workshop submission deadline has been extended! <br>
-  New Submision deadline is 7 Oct 2024!!
+  New Submision deadline is 13 Oct 2024!!
 </h1>
 
 The SOC4AI workshop at the [International Conference on Service-Oriented Computing (ICSOC2024)](https://icsoc2024.redcad.tn/) aims to become a premier event dedicated to exploring the dynamic intersection of Artificial Intelligence (AI) and Service-Oriented Computing (SOC). This workshop serves as a platform for researchers, practitioners, and industry experts to present and discuss innovative research, methodologies, and applications that leverage AI through the application of SOC and enhance SOC using AI techniques.
