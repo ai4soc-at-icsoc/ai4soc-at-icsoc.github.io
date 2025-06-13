@@ -1,9 +1,9 @@
 ---
 title: Program Committee
-date: 2024-07-11 10:20:18
+date: 2025-06-13 11:45:18
 ---
 
-*To be completed*.
+*To be completed, currently we are seaching and sending proposals*.
 
 Currently:
 

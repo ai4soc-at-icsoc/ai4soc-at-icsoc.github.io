@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SOC4AI at ICSOC2024
-subtitle: 'Service-Oriented Computing for AI Applications'
+title: SOC4AI at ICSOC2025
+subtitle: '2nd International Workshop on Service-Oriented Computing for AI Applications'
 description: 'The SOC4AI workshop at the International Conference on Service-Oriented Computing (ICSOC) aims to become a premier event dedicated to exploring the dynamic intersection of Artificial Intelligence (AI) and Service-Oriented Computing (SOC). This workshop serves as a platform for researchers, practitioners, and industry experts to present and discuss innovative research, methodologies, and applications that leverage AI through the application of SOC and enhance SOC using AI techniques.'
 keywords: Service Oriented Computing, Artificial Intelligence, ICSOC, Workshop, AI4SOC, SOC4AI, AI, SOC, ICSOC2024
 author: José Antonio Parejo Maestre
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ai4soc-workshop.onrender.com
+url: https://soc4ai-workshop.onrender.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
