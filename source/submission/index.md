@@ -2,6 +2,7 @@
 title: Submission
 date: 2024-08-26 11:30:04
 ---
+To be published upon acceptance of the workshop.
 <!--
 -- <h1 style="color: red; font-size: 36px; text-align: center;">
 --  Deadline Extended! <br>
