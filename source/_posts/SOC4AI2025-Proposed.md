@@ -1,11 +1,11 @@
 ---
-title: SOC4AI workshop has been proposed to be held at ICSOC 2025
+title: SOC4AI workshop has been ACCEPTED to be held at ICSOC 2025
 ---
 
-# The second edition of the SOC4AI workshop has been proposed to be held at ICSOC 2025
+# The second edition of the SOC4AI workshop has been accepted to be held at ICSOC 2025
 
 ##  2nd Workshop on Service Oriented computing for AI Applications
-### Proposed workshop for the 23rd International Conference on Service‑Oriented Computing (ICSOC 2025)
+### Accepted workshop for the 23rd International Conference on Service‑Oriented Computing (ICSOC 2025)
 Service‑Oriented Computing (SOC) has transformed the engineering of distributed software systems over the past two decades, while Artificial Intelligence (AI) is rapidly reshaping every facet of the digital economy. SOC4AI 2025 will bring these two fields into a single forum to explore synergies, challenges, and emerging research directions. The workshop will address (i) how SOC principles, standards, and middleware support can accelerate the design, deployment and life‑cycle management of AI applications, and (ii) how contemporary AI techniques can enrich, automate, and optimise service‑oriented systems. The expected outcome is a curated set of high‑quality, peer‑reviewed papers published in the official ICSOC 2025 Workshops Proceedings.
 
 ##  Motivation and Rationale
