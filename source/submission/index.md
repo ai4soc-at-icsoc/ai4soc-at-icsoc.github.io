@@ -4,7 +4,7 @@ date: 2024-08-26 11:30:04
 ---
 # Workshop Paper Guidelines & Publication Opportunities
 
-The following information outlines the formatting requirements, review procedure, and post-workshop publication prospects for contributions to the workshop. Please read **carefully** and ensure full compliance before submitting your manuscript.
+The following information outlines the formatting requirements, review procedure, and post-workshop publication prospects for contributions to the workshop. The papers can be sumbitted through Easychair at https://easychair.org/conferences/?conf=icsoc2025 by choosing the SOC4AI track. Please read **carefully** and ensure full compliance before submitting your manuscript.
 
 ---
 
