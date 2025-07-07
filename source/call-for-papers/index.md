@@ -38,7 +38,7 @@ Conversely, by leveraging AI, SOC can also be further enhanced to achieve unprec
 AI is driving the next wave of innovations across industries, while SOC provides the foundational architecture for distributed, modular, and flexible AI systems. SOC4AI workshop could be highly relevant to ICSOC as it addresses the confluence of two transformative fields. By exploring how AI can enhance SOC and how SOC can support AI, this workshop aims to uncover new synergies and foster advancements that will shape the future of computing.
 SOC4AI aims to be an essential gathering for those interested in the transformative potential of combining AI with Service-Oriented Computing.
 
-We invite researchers and practitioners from academia and industry to contribute original work, position papers, or case studies at the intersection of SOC and AI. Submissions that highlight novel ideas, practical deployments, or cross-disciplinary insights are particularly welcome.
+We invite researchers and practitioners from academia and industry to contribute original work, position papers, or case studies at the intersection of SOC and AI. Submissions that highlight novel ideas, practical deployments, or cross-disciplinary insights are particularly welcome. The submission paper link on easychair is available at https://easychair.org/conferences/?conf=icsoc2025 choosing the SOC4AI track.
 
 Join us at the SOC4AI 2025 Workshop at ICSOC 2025 to help shape the future of intelligent, service-driven computing.
 
