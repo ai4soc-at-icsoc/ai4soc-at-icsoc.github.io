@@ -1,6 +1,6 @@
 ---
 title: Submission
-date: 2024-08-26 11:30:04
+date: 2025-08-18 10:00:00
 ---
 # Workshop Paper Guidelines & Publication Opportunities
 
@@ -11,9 +11,9 @@ The following information outlines the formatting requirements, review procedure
 ## 1. Paper Length and Formatting
 
 - **Page limits**: Manuscripts should ordinarily be **between 8 and 12 pages** (inclusive of references, appendices, and any supplementary material).  
-- **Template**: Use the latest official Springer **Lecture Notes in Computer Science (LNCS)** template. Both LaTeX and Microsoft Word packages are available from Springer’s website.  
+- **Template**: Use the latest official Springer [**Lecture Notes in Computer Science (LNCS)**](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) template. Both LaTeX and Microsoft Word packages are available from Springer’s website.  
 - **Layout requirements** (selected highlights):  
-  - A4 paper size, two-column format.  
+  - A4 paper size, single-column format.  
   - Font: Times New Roman, 10 pt.  
   - All figures must be embedded and include descriptive captions.  
   - Ensure that all fonts used in figures are fully embedded and of sufficient resolution (≥ 300 dpi).
