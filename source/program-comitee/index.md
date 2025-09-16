@@ -1,6 +1,6 @@
 ---
 title: Program Committee
-date: 2025-06-13 11:45:18
+date: 2025-09-16 10:00:00
 ---
 
 *This section is currently under development. We are in the process of identifying and inviting additional members to the Program Committee. Updates will follow as confirmations are received.*.
