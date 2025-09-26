@@ -10,7 +10,8 @@ The following information outlines the formatting requirements, review procedure
 
 ## 1. Paper Length and Formatting
 
-- **Page limits**: Manuscripts should ordinarily be **between 8 and 12 pages** (inclusive of references, appendices, and any supplementary material).  
+- **Page limits**: Manuscripts should ordinarily be **between 8 and 12 pages** (inclusive of references, appendices, and any supplementary material).
+- **Anonymity Requirement**: Submitted papers must be anonymized to support a double-blind review process. Authors should remove all identifying information, including names, affiliations, acknowledgments, and any references that could reveal their identity. Failure to comply may result in desk rejection. For detailed instructions, please refer to the official [ICSOC2025 Submission Guidelines](https://icsoc2025.hit.edu.cn/19949/list.htm).  
 - **Template**: Use the latest official Springer [**Lecture Notes in Computer Science (LNCS)**](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) template. Both LaTeX and Microsoft Word packages are available from Springer’s website.  
 - **Layout requirements** (selected highlights):  
   - A4 paper size, single-column format.  
