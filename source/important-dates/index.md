@@ -3,7 +3,7 @@ title: Important dates
 date: 2025-06-13 11:42:04
 ---
 
-#IMPORTANT!: The deatline for the paper subimission has been extended: 14 Oct 2025!
+# IMPORTANT!: The deatline for the paper subimission has been extended: 14 Oct 2025!
 
 # Workshop Deadlines
 
