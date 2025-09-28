@@ -2,6 +2,9 @@
 title: Important dates
 date: 2025-06-13 11:42:04
 ---
+
+#IMPORTANT!: The deatline for the paper subimission has been extended: 14 Oct 2025!
+
 # Workshop Deadlines
 
 Below is the authoritative timeline for all key milestones of the workshop.  
@@ -12,8 +15,8 @@ If you need to confirm the exact cut-off in your own region, consult the live cl
 
 | Milestone | Date (AOE) |
 |-----------|------------|
-| **Workshop Papers Submission** | **30 September 2025** |
-| **Authors Notification** | **24 October 2025** |
+| **Workshop Papers Submission** | **14 October 2025** |
+| **Authors Notification** | **31 October 2025** |
 | **Camera-ready Submission** | **07 November 2025** |
 | **Workshop Date** | **01 December 2025** |
 
