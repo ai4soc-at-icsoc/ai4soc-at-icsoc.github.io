@@ -2,7 +2,7 @@
 title: SOC4AI workshop has been ACCEPTED to be held at ICSOC 2025
 ---
 
-# The second edition of the SOC4AI workshop has been accepted to be held at ICSOC 2025
+# The deadline fo paper submissión has been extended: 14 Oct 2025!
 
 ##  2nd Workshop on Service Oriented computing for AI Applications
 ### Accepted workshop for the 23rd International Conference on Service‑Oriented Computing (ICSOC 2025)
