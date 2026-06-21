@@ -1,50 +1,53 @@
 ---
 title: Call for Papers
-date: 2024-07-11 10:19:19
+date: 2026-06-21 10:00:00
 ---
-# SOC4AI - Service-Oriented Computing for AI Applications
 
-<!--h1 style="color: red; font-size: 36px; text-align: center;">
-  Deadline Extended! <br>
-  The workshop submission deadline has been extended! <br>
-  New Submision deadline is 13 Oct 2024!!
-</h1-->
+# SOC4AI 2026 - Service-Oriented Computing for AI Applications
 
-The second ediiton of SOC4AI workshop at the [International Conference on Service-Oriented Computing (ICSOC2025)](https://icsoc2025.hit.edu.cn/) aims to become a premier event dedicated to exploring the dynamic intersection of Artificial Intelligence (AI) and Service-Oriented Computing (SOC). This workshop serves as a platform for researchers, practitioners, and industry experts to present and discuss innovative research, methodologies, and applications that leverage AI through the application of SOC and enhance SOC using AI techniques.
+The 3rd Workshop on Service-Oriented Computing for AI Applications (SOC4AI 2026) is proposed as a co-located workshop with the [24th International Conference on Service-Oriented Computing (ICSOC 2026)](https://icsoc2026.it.p.lodz.pl/), to be held in Lodz, Poland, from 1 to 4 December 2026.
 
-We solicit original research papers, experience reports, vision papers, and tool/demo papers including, but not limited to:
+Service-Oriented Computing (SOC) has transformed the engineering of distributed software systems over the past two decades, while Artificial Intelligence (AI) is reshaping every facet of the digital economy. SOC4AI 2026 brings these two domains into a single forum to explore synergies, challenges, and emerging research directions.
 
-## Service-Oriented Computing for AI
+The workshop pursues a dual objective:
 
-Service-Oriented Computing has revolutionized the way software applications are designed, implemented, and managed in a similar way to how AI is revolutionizing so many areas of our lives nowadays. SOC principles and technologies can significantly contribute to the development and deployment of AI applications. The primary topics of this workshop include:
+## Service-Oriented Computing for AI Applications
 
-1.	Service-Based AI Architectures: Service-oriented architectures provide modular, scalable, and interoperable frameworks for developing AI applications, promoting reusability and ease of integration. This topic also includes Service‑based reference architectures for machine‑learning and Generative AI pipelines, and experience reports on this kind of architectures.  
-2.	AI as a Service: The SOC paradigm can enable AI capabilities to be delivered as services, making advanced AI functionalities accessible to a broader range of users and applications without the need for in-depth technical expertise. This topic also includes Lightweight service descriptions/ontologies for foundation‑model APIs.
-3.	Orchestration of AI Services: The orchestration of multiple AI services can create sophisticated AI workflows and composite services, enhancing the functionality and versatility of AI solutions. 
-4.	Scalability and Flexibility in AI Deployment: SOC methodologies facilitate the scalable and flexible deployment of AI models and services, ensuring they can efficiently handle varying workloads and adapt to changing requirements. This topic includes elastic scaling and cost‑aware placement of AI services across the entire cloud‑edge continuum, and observability, monitoring, and operation of AI service meshes.
-5. Governance of AIaaS: Including topics security, privacy, and compliance in service‑based AI deployments.
+How SOC principles, standards, and middleware can accelerate the design, deployment, and life-cycle management of AI-centric systems spanning the cloud-edge continuum.
+
+Topics include, but are not limited to:
+
+1. Service-based AI architectures and reference architectures for machine-learning and generative AI pipelines.
+2. AI as a Service, including lightweight service descriptions and ontologies for foundation-model APIs.
+3. Orchestration and composition of AI services across heterogeneous providers and execution environments.
+4. Scalable, elastic, and cost-aware deployment of AI services across cloud, edge, and continuum infrastructures.
+5. Governance, privacy, security, compliance, and observability in service-based AI deployments.
 
 ## AI for Service-Oriented Computing
 
-Conversely, by leveraging AI, SOC can also be further enhanced to achieve unprecedented levels of efficiency, automation, and value delivery.  Therefore, the workshop will also be open to contributions regarding applications of AI in Service-Oriented Computing as a secondary focus, including:
+How contemporary AI techniques, including foundation models, reinforcement learning, and causal inference, can enrich, automate, and optimise service-oriented architectures from discovery and composition to monitoring, governance, and sustainability.
 
-6.	Intelligent Service Discovery and Composition: AI techniques can improve the discovery, matching, and composition of services, ensuring that the most relevant services are selected and integrated to meet specific user requirements dynamically and that service-oriented architectures are deployed optimally.
-7.	Autonomous Service Management: AI-driven solutions can enable the autonomous management of services, including compliance with customer agreements and regulations, monitoring, adaptation, and optimization, reducing the need for human intervention and improving service reliability and performance. This topic also includes Large‑language‑model (LLM) copilots for service operation, engineering and governance.
-8.	Predictive Analytics and Maintenance: Machine learning and predictive analytics can be applied to anticipate service failures, optimize maintenance schedules, and enhance the overall dependability of service-oriented systems.
-9.	Natural Language Processing (NLP) and Generative AI for Service Interaction: AI-powered NLP and Generative AI can facilitate more intuitive and efficient human-service interactions, enabling users to communicate with services through natural language queries and commands throughout the whole service lifecycle.
+Topics include, but are not limited to:
 
-## Relevance to the Conference
+1. Intelligent service discovery, matching, recommendation, and composition.
+2. Autonomous service management, self-optimisation, policy enforcement, and runtime adaptation.
+3. LLM copilots and agents for service operation, engineering, monitoring, and governance.
+4. Predictive analytics, anomaly detection, and maintenance for service-oriented systems.
+5. Sustainable and cost-efficient service operations using AI-driven placement, scaling, and resource management.
 
-AI is driving the next wave of innovations across industries, while SOC provides the foundational architecture for distributed, modular, and flexible AI systems. SOC4AI workshop could be highly relevant to ICSOC as it addresses the confluence of two transformative fields. By exploring how AI can enhance SOC and how SOC can support AI, this workshop aims to uncover new synergies and foster advancements that will shape the future of computing.
-SOC4AI aims to be an essential gathering for those interested in the transformative potential of combining AI with Service-Oriented Computing.
+## Key Themes
 
-We invite researchers and practitioners from academia and industry to contribute original work, position papers, or case studies at the intersection of SOC and AI. Submissions that highlight novel ideas, practical deployments, or cross-disciplinary insights are particularly welcome. The submission paper link on easychair is available at https://easychair.org/conferences/?conf=icsoc2025 choosing the SOC4AI track.
+SOC4AI 2026 particularly welcomes contributions on interoperable AI service ecosystems, AI-powered autonomy and governance, sustainable and cost-efficient service operations, and human-centric and responsible AI-as-a-Service.
 
-Join us at the SOC4AI 2025 Workshop at ICSOC 2025 to help shape the future of intelligent, service-driven computing.
-
+By convening researchers and practitioners from both communities, SOC4AI 2026 will consolidate best practices, surface emerging pain points, and articulate a shared roadmap for the next generation of intelligent, service-driven computing, aligned with the core topics of ICSOC.
 
 ## Target Audience
-* Researchers in SOC, cloud/edge computing, and AI/ML
-* Industrial R&D engineers building AI platforms and marketplaces
-* PhD students seeking cross‑disciplinary perspectives
-* Standards bodies and open‑source community representatives 
+
+* Researchers in SOC, cloud/edge computing, and AI/ML.
+* Industrial R&D engineers building AI platforms, marketplaces, and service ecosystems.
+* PhD students seeking cross-disciplinary perspectives.
+* Standards bodies and open-source community representatives.
+
+## Submission
+
+Submission instructions, deadlines, and the submission link will be announced after the workshop schedule is finalised.

@@ -1,30 +1,19 @@
 ---
-title: Important dates
-date: 2025-06-13 11:42:04
+title: Important Dates
+date: 2026-06-21 10:00:00
 ---
 
-# IMPORTANT!: The deatline for the paper subimission has been extended: 14 Oct 2025!
+# Important Dates
 
-# Workshop Deadlines
+The SOC4AI 2026 timeline will be published once the workshop schedule is finalised.
 
-Below is the authoritative timeline for all key milestones of the workshop.  
-Please note that **every deadline is expressed in “Anywhere on Earth” time (AOE, UTC − 12)**.  
-If you need to confirm the exact cut-off in your own region, consult the live clock here: <https://time.is/Anywhere_on_Earth>.
-
-## Schedule for the Main Deadlines
+All deadlines are expected to follow **Anywhere on Earth** time (AOE, UTC -12), unless stated otherwise. You can check the current AOE time at <https://time.is/Anywhere_on_Earth>.
 
 | Milestone | Date (AOE) |
 |-----------|------------|
-| **Workshop Papers Submission** | **14 October 2025** |
-| **Authors Notification** | **31 October 2025** |
-| **Camera-ready Submission** | **07 November 2025** |
-| **Workshop Date** | **01 December 2025** |
+| Workshop paper submission | To be announced |
+| Author notification | To be announced |
+| Camera-ready submission | To be announced |
+| Workshop date | To be announced |
 
----
-
-**Why AOE?**  
-Using the AOE convention ensures that participants worldwide enjoy the maximum practical submission window, regardless of their local timezone. The deadline expires only after the final minute of 30 September 2025 in the last place on Earth where it is still that date.
-
-For convenience, you may add these dates to your personal calendar, but always double-check against the AOE clock linked above.
-
----
+ICSOC 2026 will take place in Lodz, Poland, from **1 to 4 December 2026**.
