@@ -5,7 +5,7 @@ date: 2026-06-21 10:00:00
 
 # Important Dates
 
-All deadlines are at **23:59 Anywhere on Earth** (AoE, UTC−12). You can check the current AoE time at <https://time.is/Anywhere_on_Earth>.
+**All times are Anywhere on Earth (AOE = GMT - 12).** You can check the current AOE time at <https://time.is/Anywhere_on_Earth>.
 
 | Milestone | Date (AOE) |
 |-----------|------------|

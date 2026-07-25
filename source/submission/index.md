@@ -47,4 +47,4 @@ When creating a new submission in EasyChair, select the **SOC4AI 2026 workshop t
 - Camera-ready submission: **7 November 2026**
 - Workshop: **1 December 2026**
 
-All deadlines are at **23:59 Anywhere on Earth (AoE, UTC−12)**.
+**All times are Anywhere on Earth (AOE = GMT - 12).**
