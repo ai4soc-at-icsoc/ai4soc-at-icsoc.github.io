@@ -5,7 +5,7 @@ date: 2026-06-21 10:00:00
 
 # SOC4AI 2026 - Service-Oriented Computing for AI Applications
 
-The 3rd Workshop on Service-Oriented Computing for AI Applications (SOC4AI 2026) is proposed as a co-located workshop with the [24th International Conference on Service-Oriented Computing (ICSOC 2026)](https://icsoc2026.it.p.lodz.pl/), to be held in Lodz, Poland, from 1 to 4 December 2026.
+The 3rd Workshop on Service-Oriented Computing for AI Applications (SOC4AI 2026) is an accepted workshop of the [24th International Conference on Service-Oriented Computing (ICSOC 2026)](https://icsoc2026.it.p.lodz.pl/). It will be held in person in Lodz, Poland, on **1 December 2026**.
 
 Service-Oriented Computing (SOC) has transformed the engineering of distributed software systems over the past two decades, while Artificial Intelligence (AI) is reshaping every facet of the digital economy. SOC4AI 2026 brings these two domains into a single forum to explore synergies, challenges, and emerging research directions.
 
@@ -50,4 +50,6 @@ By convening researchers and practitioners from both communities, SOC4AI 2026 wi
 
 ## Submission
 
-Submission instructions, deadlines, and the submission link will be announced after the workshop schedule is finalised.
+Workshop papers should be **8–12 pages** long and use the Springer LNCS format. Paper submissions are due on **30 September 2026 at 23:59 AoE**. Each paper will receive at least three reviews.
+
+See the complete [submission instructions](/submission/) and [important dates](/important-dates/). The submission link will be published as soon as it is available.
