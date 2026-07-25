@@ -3,22 +3,21 @@ title: Submission
 date: 2026-06-21 10:00:00
 ---
 
-# Workshop Paper Guidelines & Publication Opportunities
+# Workshop Paper Submission Guidelines
 
-Detailed SOC4AI 2026 submission instructions will be announced once the workshop timeline and submission track are finalised.
+SOC4AI 2026 follows the requirements established for accepted workshops at [ICSOC 2026](https://icsoc2026.it.p.lodz.pl/call-workshops.html).
 
-## Expected Paper Format
+## Paper Format
 
-The workshop expects to follow the standard ICSOC workshop format:
+- Workshop papers should be **between 8 and 12 pages** in the Springer [Lecture Notes in Computer Science (LNCS)](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) format.
+- Submissions must present original work that is not simultaneously under review or published elsewhere.
+- Papers must be written in English and submitted as PDF files.
 
-- Manuscripts should ordinarily be between **8 and 12 pages**, including references, appendices, and supplementary material.
-- Submissions should use the official Springer [Lecture Notes in Computer Science (LNCS)](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) format.
-- Papers should be anonymized if required by the final ICSOC 2026 workshop review policy.
-- Submitted work must be original and not under review elsewhere.
+Further formatting or anonymisation requirements will be added here if specified by the workshop submission system.
 
 ## Review Process
 
-Each submission will be assessed by independent reviewers drawn from the Program Committee and external experts. Reviews will consider:
+Each submission will receive **at least three high-quality reviews**. The review process will be rigorous and the workshop acceptance rate will not exceed 50%, in accordance with the Springer LNCS publication requirements stated by ICSOC 2026. Reviews will consider:
 
 1. Originality and novelty.
 2. Technical soundness.
@@ -28,8 +27,22 @@ Each submission will be assessed by independent reviewers drawn from the Program
 
 ## Publication
 
-Accepted workshop papers are expected to be included in the official ICSOC workshop post-proceedings, subject to the final publication arrangements announced by ICSOC 2026.
+Accepted papers are planned for publication in the ICSOC 2026 workshop post-proceedings with Springer, subject to the conference's final publication arrangements and fulfilment of all publication requirements.
+
+At least one author of every accepted paper must:
+
+- attend the workshop in person and present the paper; and
+- register for either the Workshop Day (1 December 2026) or the full ICSOC 2026 conference **before the camera-ready deadline**.
 
 ## Submission Link
 
-The submission link will be posted here when available.
+The paper submission system will be linked here as soon as it is available.
+
+## Key Dates
+
+- Paper submission: **30 September 2026**
+- Author notification: **24 October 2026**
+- Camera-ready submission: **7 November 2026**
+- Workshop: **1 December 2026**
+
+All deadlines are at **23:59 Anywhere on Earth (AoE, UTC−12)**.
