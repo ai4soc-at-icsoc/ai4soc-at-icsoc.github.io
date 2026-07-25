@@ -7,7 +7,7 @@ date: 2026-07-25 10:00:00
 
 We are delighted to announce that **SOC4AI 2026, the 3rd Workshop on Service-Oriented Computing for AI Applications, has been accepted as an official workshop of the 24th International Conference on Service-Oriented Computing (ICSOC 2026)**.
 
-The workshop will be held **in person in Lodz, Poland, on 1 December 2026**. Paper submissions are due on **30 September 2026**.
+The workshop will be held **in person in Lodz, Poland, on 1 December 2026**. Paper submissions are due on **23 September 2026**.
 
 Please see the [Call for Papers](/call-for-papers/), [submission instructions](/submission/), and [important dates](/important-dates/) for details.
 

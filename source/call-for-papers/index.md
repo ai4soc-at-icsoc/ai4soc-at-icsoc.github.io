@@ -50,6 +50,6 @@ By convening researchers and practitioners from both communities, SOC4AI 2026 wi
 
 ## Submission
 
-Workshop papers should be **8–12 pages** long and use the Springer LNCS format. Paper submissions are due on **30 September 2026 at 23:59 AoE**. Each paper will receive at least three reviews.
+Workshop papers should be **8–12 pages** long and use the Springer LNCS format. Paper submissions are due on **23 September 2026 at 23:59 AoE**. Each paper will receive at least three reviews.
 
 Submit through the [ICSOC 2026 EasyChair submission system](https://easychair.org/conferences/?conf=icsoc2026) and select the **SOC4AI 2026 workshop track** when creating your submission. See the complete [submission instructions](/submission/) and [important dates](/important-dates/).

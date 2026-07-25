@@ -42,7 +42,7 @@ When creating a new submission in EasyChair, select the **SOC4AI 2026 workshop t
 
 ## Key Dates
 
-- Paper submission: **30 September 2026**
+- Paper submission: **23 September 2026**
 - Author notification: **24 October 2026**
 - Camera-ready submission: **7 November 2026**
 - Workshop: **1 December 2026**

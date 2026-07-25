@@ -9,7 +9,7 @@ All deadlines are at **23:59 Anywhere on Earth** (AoE, UTC−12). You can check 
 
 | Milestone | Date (AOE) |
 |-----------|------------|
-| Workshop paper submission | **30 September 2026** |
+| Workshop paper submission | **23 September 2026** |
 | Author notification | **24 October 2026** |
 | Camera-ready submission | **7 November 2026** |
 | Workshop date | **1 December 2026** |
