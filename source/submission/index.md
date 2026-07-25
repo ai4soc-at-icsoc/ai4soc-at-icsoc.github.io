@@ -36,7 +36,9 @@ At least one author of every accepted paper must:
 
 ## Submission Link
 
-The paper submission system will be linked here as soon as it is available.
+Submit your paper through the [ICSOC 2026 EasyChair submission system](https://easychair.org/conferences/?conf=icsoc2026).
+
+When creating a new submission in EasyChair, select the **SOC4AI 2026 workshop track**. The workshop uses the same submission system as the main ICSOC 2026 conference, so selecting the correct track is essential to route your paper to the SOC4AI Program Committee.
 
 ## Key Dates
 
