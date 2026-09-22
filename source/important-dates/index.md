@@ -9,7 +9,7 @@ date: 2026-06-21 10:00:00
 
 | Milestone | Date (AOE) |
 |-----------|------------|
-| Workshop paper submission | **23 September 2026** |
+| Workshop paper submission | **15 October 2026** |
 | Author notification | **24 October 2026** |
 | Camera-ready submission | **7 November 2026** |
 | Workshop date | **1 December 2026** |
